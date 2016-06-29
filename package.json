@@ -1,0 +1,23 @@
+{
+  "name": "big-number-euler",
+  "version": "1.0.0",
+  "description": "This is a simple module to sum, pow and div number in ProjectEuler",
+  "main": "big-number-euler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susakun/big-number-euler.git"
+  },
+  "keywords": [
+    "big",
+    "number"
+  ],
+  "author": "Hung Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susakun/big-number-euler/issues"
+  },
+  "homepage": "https://github.com/susakun/big-number-euler#readme"
+}
